@@ -91,8 +91,3 @@ AWS Lambda Layers
 Pillow
 CloudWatch
 
-This README stays consistent with the project you actually built and the architecture documented in your PDF. :contentReference[oaicite:0]{index=0}
-
-After pasting it, click **Commit changes**.
-
-Then your GitHub repository will have the basic professional structure.
